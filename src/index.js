@@ -1,7 +1,9 @@
 import{ initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js"
 import{ getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js"
-// import { initializeApp } from 'firebase/app'; use for build
-// import { getDatabase, ref, push, onValue, remove } from 'firebase/database'; use for build
+// import { initializeApp } from 'firebase/app'; 
+// use for build
+// import { getDatabase, ref, push, onValue, remove } from 'firebase/database'; 
+// use for build
 import config from "../config.js"
 
 // Use Firebase functionalities here
